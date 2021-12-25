@@ -9,7 +9,7 @@ A custom CrazyCraft mod pack.
  - download Technic (or another modloader that allows you to edit the files of each modpack)
  - install a similar CrazyCraft modpack
 
-![alt text](http://github.com/gaberighter/CrazyCraft-3-Custom/blob/main/technic.png)
+![alt text](http://github.com/gaberighter/CrazyCraft-3-Custom/blob/main/technic.png?raw=true)
 
  - find the mods folder for that specific modpack
  - replace it with the included mod folder
